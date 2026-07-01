@@ -1,0 +1,15 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+*.tfvars.json
+
+# Credentials & Environment
+.env
+*.pem
+*.key
+
+# OS & Logs
+.DS_Store
+*.log
